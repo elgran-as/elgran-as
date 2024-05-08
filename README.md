@@ -2,7 +2,7 @@
 - 
 - 👀 I’m interested in ...HTML, CSS, JAVASCRIPT, BOOTSTRAP, REACT NATIVE
 - 🌱 study in utn e-learning (HMTL, CSS, JAVASCRIPT, BOOTSTRAP,GIT)
-   and study in coderhouse Desarrollo de aplicaciones (React Native, firebase, redux)
+   and study in coderhouse Desarrollo de aplicaciones (React Native, Nodejs, firebase, reduxToolkit)
 
 
 
